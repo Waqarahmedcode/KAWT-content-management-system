@@ -1,0 +1,6 @@
+{
+  "name": "KAWT Content Studio",
+  "description": "Comprehensive content management, campaign planner, and AI studio for Khidmat-e-Alam Welfare Trust.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
